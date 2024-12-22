@@ -1,3 +1,4 @@
+import emailjs from "emailjs-com"
 (function() {
     emailjs.init("UnW_tAU8stevf6HgZ"); // Replace "your_user_id" with your actual public key
 })();
